@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# production
+dist/
+docs/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# file
+.DS_Store
+*.DS_Store
+
+# etc
+.next
