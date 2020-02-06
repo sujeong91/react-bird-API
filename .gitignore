@@ -27,3 +27,6 @@ lerna-debug.log*
 
 # etc
 .next
+
+# secure
+.env

@@ -13,5 +13,8 @@
     "import",
     "react",
     "react-hooks"
-  ]
+  ],
+  "rules": {
+    "consistent-return": 0
+  }
 }
